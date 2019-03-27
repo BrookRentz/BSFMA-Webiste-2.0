@@ -1,0 +1,35 @@
+nav {
+  background-color: #2a840e;
+  font: inherit;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  padding: 0px;
+  display: inline-block;
+}
+
+nav a {
+  padding: 0px 20px;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none !important;
+  font-size: 1em;
+	border-bottom: none;
+}
+
+nav a:hover {
+  color: #FFFFFF !important;
+  background-color: #245e12;
+}
+
+.active {
+  background-color: #245e12;
+}
