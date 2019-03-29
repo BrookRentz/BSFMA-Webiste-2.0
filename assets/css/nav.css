@@ -1,5 +1,5 @@
 nav {
-  background-color: #2a840e;
+  background-color: #1b5608;
   font: inherit;
   text-align: center;
 }
@@ -27,9 +27,9 @@ nav a {
 
 nav a:hover {
   color: #FFFFFF !important;
-  background-color: #245e12;
+  background-color: #0f3304;
 }
 
 .active {
-  background-color: #245e12;
+  background-color: #0f3304;
 }
