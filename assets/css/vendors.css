@@ -1,3 +1,7 @@
 #header {
   		background-image: url("../../images/lettuce_beauty.jpg");
 }
+
+li {
+  list-style-type: none;
+}

@@ -1,7 +1,6 @@
 nav {
   background-color: #1b5608;
   font: inherit;
-  text-align: center;
 }
 
 nav ul {
@@ -32,4 +31,12 @@ nav a:hover {
 
 .active {
   background-color: #0f3304;
+}
+
+#navbarDropdown {
+  color: #FFFFFF
+}
+
+nav a:hover .dropdown-item {
+  background-color: #1b5608;
 }
