@@ -34,7 +34,10 @@ nav a:hover {
 }
 
 #navbarDropdown {
-  color: #FFFFFF
+  color: #FFFFFF;
+  padding: 0px 20px;
+  display: inline-block;
+  margin: 0;
 }
 
 nav a:hover .dropdown-item {
